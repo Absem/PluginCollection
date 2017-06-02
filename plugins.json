@@ -1045,12 +1045,12 @@
 	{
 		"name": "ShopGUI+",  
 		"desc": "Items can now be bought in a GUI-based shop",  
-		"jarName": "ShopGUIPlus-1.4.4-SNAPSHOT.jar",  
+		"jarName": "ShopGUIPlus.jar",
 		"configName": "ShopGUIPlus"  
 	},
 	{
 		"name": "FactionsTop",  
-		"desc": "Listing of top factions power, money etc.",  
+		"desc": "Listing of top factions power, money etc.\n&cRequires Factions.",  
 		"jarName": "FactionsTopUUID.jar",  
 		"configName": "FactionsTop"
 	},
