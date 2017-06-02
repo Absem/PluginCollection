@@ -1059,6 +1059,12 @@
 		"desc": "Configurable scoreboards",  
 		"jarName": "FeatherBoard.jar",  
 		"configName": "FeatherBoard"
+	},
+	{
+		"name": "CustomCrates",
+		"desc": "Customizable crates, configurable to add items."
+		"jarName": "CustomCrates.jar"
+		"configName": "CustomCrates"
 	}
 ]
 
