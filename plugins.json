@@ -1041,5 +1041,24 @@
 		"desc": "Adds items that give potion effects",
 		"jarName": "SimpleDrugs.jar",
 		"configName": "SimpleDrugs"
+	},
+	{
+		"name": "ShopGUI+",  
+		"desc": "Items can now be bought in a GUI-based shop",  
+		"jarName": "ShopGUIPlus-1.4.4-SNAPSHOT.jar",  
+		"configName": "ShopGUIPlus"  
+	},
+	{
+		"name": "FactionsTop",  
+		"desc": "Listing of top factions power, money etc.",  
+		"jarName": "FactionsTopUUID.jar",  
+		"configName": "FactionsTop"
+	},
+	{
+		"name": "Featherboard",  
+		"desc": "Configurable scoreboards",  
+		"jarName": "FeatherBoard.jar",  
+		"configName": "FeatherBoard"
 	}
 ]
+
